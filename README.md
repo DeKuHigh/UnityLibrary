@@ -10,7 +10,7 @@ To install the library try these steps:
 
 1) Fork this Repository <br>
 
-`$git clone https://github.com/Akhil-Sharma30/TryingCreatingC-Library.git`
+`$https://github.com/DeKuHigh/UnityLibrary.git`
 
 2) Copy the `unity-library.dll` file <br>
 
