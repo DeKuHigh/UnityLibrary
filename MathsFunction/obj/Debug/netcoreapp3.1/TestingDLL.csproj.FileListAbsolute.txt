@@ -1,0 +1,5 @@
+D:\Unity Libraries\TestingDLL\TestingDLL\obj\Debug\netcoreapp3.1\TestingDLL.csproj.AssemblyReference.cache
+D:\Unity Libraries\TestingDLL\TestingDLL\obj\Debug\netcoreapp3.1\TestingDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Libraries\TestingDLL\TestingDLL\obj\Debug\netcoreapp3.1\TestingDLL.AssemblyInfoInputs.cache
+D:\Unity Libraries\TestingDLL\TestingDLL\obj\Debug\netcoreapp3.1\TestingDLL.AssemblyInfo.cs
+D:\Unity Libraries\TestingDLL\TestingDLL\obj\Debug\netcoreapp3.1\TestingDLL.csproj.CoreCompileInputs.cache
