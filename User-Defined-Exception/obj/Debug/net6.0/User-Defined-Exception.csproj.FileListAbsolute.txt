@@ -1,0 +1,12 @@
+D:\Unity Libraries\User-Defined-Exception\bin\Debug\net6.0\User-Defined-Exception.deps.json
+D:\Unity Libraries\User-Defined-Exception\bin\Debug\net6.0\User-Defined-Exception.dll
+D:\Unity Libraries\User-Defined-Exception\bin\Debug\net6.0\User-Defined-Exception.pdb
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\User-Defined-Exception.csproj.AssemblyReference.cache
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\User-Defined-Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\User-Defined-Exception.AssemblyInfoInputs.cache
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\User-Defined-Exception.AssemblyInfo.cs
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\User-Defined-Exception.csproj.CoreCompileInputs.cache
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\User-Defined-Exception.dll
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\refint\User-Defined-Exception.dll
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\User-Defined-Exception.pdb
+D:\Unity Libraries\User-Defined-Exception\obj\Debug\net6.0\ref\User-Defined-Exception.dll
